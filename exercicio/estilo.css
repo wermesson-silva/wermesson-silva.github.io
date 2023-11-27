@@ -1,0 +1,24 @@
+.barraMenu{
+    background-color: black;
+    align-items: center;
+}
+
+.logo h1{
+    color: white;
+}
+
+.formulario{
+    justify-content: center;
+}
+
+.imagem img{
+    width: 100%;
+}
+
+.titulo{
+    padding: 30px;
+}
+
+.titulo h2{
+    text-align: center;
+}
